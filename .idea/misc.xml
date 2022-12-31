@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/background_bottom_left.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/background_bottom_right.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/background_top_left.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/background_top_right.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/background_top_white.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/backgroundcolor.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/backgroundtema.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/ic_baseline_edit_note_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/drawable/tema.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_absensi.xml" value="0.22" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_catatan.xml" value="0.25" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_daftar.xml" value="0.1" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_edit.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_info_aplikasi.xml" value="0.22" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_jadwal.xml" value="0.25" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_list_catatan.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_list_data.xml" value="0.25" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_menu_catatan.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_menu_utama.xml" value="0.22" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_simpan.xml" value="0.22" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_simpan_catatan.xml" value="0.2" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/activity_tampil.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/output_catatan.xml" value="0.45996275605214154" />
+        <entry key="..\:/Users/RISKI/AndroidStudioProjects/mobile_data_app/app/src/main/res/layout/output_data.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
